@@ -5,4 +5,5 @@ nest_asyncio
 asyncio
 time
 threading
+sqlite3
 datetime
